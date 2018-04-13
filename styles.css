@@ -1,0 +1,17 @@
+form {
+	margin-top: 5%;
+	/*margin-bottom: 5%;*/
+}
+
+/*.btn {
+	margin-top: 2%;
+}*/
+
+#parameters-selected {
+	margin-bottom: 2%;
+	display: inline;
+}
+
+#delete-parameter {
+	display: inline;
+}
